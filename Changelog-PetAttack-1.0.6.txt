@@ -1,0 +1,13 @@
+------------------------------------------------------------------------
+r16 | dhedbor | 2014-09-25 03:28:26 +0000 (Thu, 25 Sep 2014) | 1 line
+Changed paths:
+   A /tags/1.0.6 (from /trunk:15)
+
+Tagging as 1.0.6
+------------------------------------------------------------------------
+r15 | dhedbor | 2014-07-15 07:57:30 +0000 (Tue, 15 Jul 2014) | 1 line
+Changed paths:
+   M /trunk/PetAttack.lua
+
+Don't warn about pet attack when warlock pet is sacrificed.
+------------------------------------------------------------------------
