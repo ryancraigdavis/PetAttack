@@ -1,16 +1,16 @@
-## Interface: 30401
+## Interface: 50001
 ## Title: Pet Attack
-## Notes: Tracks if your pet is attacking, specifically your target
-## Author: Original code by NeoTron, Modified by Ryan Davis
-## Version: 0.0.1
+## Notes: Annoys you to death if you're fighting but your pet isn't attacking
+## Author: NeoTron
+## Version: 1.0.15
 ## DefaultState: enabled
 ## X-Category: Combat
-## X-eMail: ryancraigdavis@gmail.com
+## X-eMail: neotron@gmail.com
 ## LoadManagers: AddonLoader
 ## OptionalDeps: Ace3
 ## SavedVariables: PetAttackDB
 ## X-LoadOn-Class: Warlock, DeathKnight, Hunter, Mage
-## X-Curse-Packaged-Version: 0.0.1
+## X-Curse-Packaged-Version: 1.0.6
 ## X-Curse-Project-Name: Pet Attack
 ## X-Curse-Project-ID: petattack
 ## X-Curse-Repository-ID: wow/petattack/mainline
